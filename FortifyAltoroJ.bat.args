@@ -1,0 +1,9 @@
+ 
+"-cp" 
+"C:\Source _Code_apps\AltoroJ\build\classes\java\main;C:\Source _Code_apps\AltoroJ\WebContent\WEB-INF\lib\Log4AltoroJ.jar" 
+"-source" 
+"1.8" 
+"-exclude" "C:\Source _Code_apps\AltoroJ\**\*.gradle" 
+"-exclude" "C:\Source _Code_apps\AltoroJ\**\*.jar" 
+"-exclude" "C:\Source _Code_apps\AltoroJ\**\*.class" 
+"C:\Source _Code_apps\AltoroJ" 
